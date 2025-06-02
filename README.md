@@ -17,4 +17,4 @@ Este proyecto es ideal para practicar estructuras de control, listas, validacion
 Cada producto es almacenado como una sublista con la siguiente estructura:
 
 ```python
-[product_id, product_name, product_category, product_price]
+[product_name, product_category, product_price]
